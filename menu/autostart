@@ -1,0 +1,16 @@
+#!/bin/bash
+
+echo "Connecting to VITA"
+if [ -c /dev/video0 ]; then
+ bash /home/pi/scripts/launchvita.sh
+fi
+
+sleep 5s
+
+echo "No VITA Dectected, Launching Menu in 5 seconds.
+
+sleep 5s
+
+echo "Launchig VitaDock Menu"
+
+bash /home/pi/scripts/menu.sh
