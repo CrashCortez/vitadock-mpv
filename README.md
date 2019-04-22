@@ -18,7 +18,7 @@ https://github.com/BaReinhard/Super-Simple-Raspberry-Pi-Audio-Receiver-Install
 git clone https://github.com/CrashCortez/vitadock-setup.git && cd vitadock-settup/menu && sudo chmod a+x *.sh && sudo chown pi:pi *.sh && cp *.sh /home/pi/scripts/
 ```
 
-# 4.0) Make it auto start
+# 4.) Make it autostart
 
 ```shell
 sudo nano /etc/rc.local
