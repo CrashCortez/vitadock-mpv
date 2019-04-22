@@ -1,5 +1,8 @@
-# vitadock-setup
+# Vitadock-setup
 
+Grab a fresh copy of Raspbian from
+
+https://www.raspberrypi.org/downloads/raspbian/
 
 # 1.) Update MPV and FFMPEG
 
