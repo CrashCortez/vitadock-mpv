@@ -1,6 +1,5 @@
-![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/image.jpg)
 # Vitadock-setup DIY
-
+![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/image.jpg)
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 
 What you will need for this build
@@ -44,22 +43,22 @@ Hacked PS VITA with usb connection
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/vita.jpg)
 
 # Software Instructions Setup
-------------------------------
+
 
 1- Download Raspbian with a desktop from:
-------------------------------
+
 https://www.raspberrypi.org/downloads/raspbian/
 
 2 - Using Win32diskimager or etcher "write" the unzipped Raspbian image to your SD Card. 
-------------------------------
-3 - Once done remove the SD Card from PC and put your card in you pi and boot it up.
-------------------------------
-4 - After the first boot set your time zone, language etc. [AND DO NOT SKIP UPDATE ONCE ASKED!!!] Also enable SSH if you want to use a pc and putty to help set this up.
-------------------------------
-5 - Once everything is done restart your raspberry pi (system message will appear asking you to press reboot).
-------------------------------
 
-# Setting up the media
+3 - Once done remove the SD Card from PC and put your card in you pi and boot it up.
+
+4 - After the first boot set your time zone, language etc. [AND DO NOT SKIP UPDATE ONCE ASKED!!!] Also enable SSH if you want to use a pc and putty to help set this up.
+
+5 - Once everything is done restart your raspberry pi (system message will appear asking you to press reboot).
+
+
+# Setting up the Dock
 
 1 - Update MPV and FFMPEG
 ----
