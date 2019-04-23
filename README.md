@@ -68,7 +68,7 @@ https://www.raspberrypi.org/forums/viewtopic.php?t=199775
 
 2 - Setup your Sound
 -----
-You can use a usb sound card an some 3.5mm cables to send the sound to the pi. I found the sound quality to be poor. So i opted to turn the pi into a BT reciver and send the sound from the vita to the pi. I bought a cheap no name dongle, worked well. 
+You can use a usb sound card an some 3.5mm cables to send the sound to the pi. I found the sound quality to be poor. So I opted to turn the pi into a BT reciver and send the sound from the vita to the pi. I bought a cheap no name dongle, worked well. 
 
 Since we are using a BT dongle add dtoverlay=pi3-disable-bt to your /boot/config.txt.
 
@@ -107,7 +107,7 @@ Airplay password (y/n): n
 Which Sound Card are you using? (0/1/2/3/4/5/6/7/8/9/10/11) : 0. No Sound Card
 
 
-3 - Grab the menu scripts (OPTIONAL)
+3 - Grab the menu scripts WIP  (OPTIONAL)
 -----
 ```shell
 git clone https://github.com/CrashCortez/vitadock-setup.git && cd vitadock-settup/menu && sudo chmod a+x *.sh && sudo chown pi:pi *.sh && cp *.sh /home/pi/scripts/
