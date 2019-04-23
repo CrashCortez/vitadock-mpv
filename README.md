@@ -6,7 +6,6 @@
 What you will need for this build
 ------------------------------------
 # Raspberry Pi
------------------------
 
 I used a Raspberry Pi 3 B+
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/pi3b+2.jpg)
