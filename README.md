@@ -26,6 +26,8 @@ While this is not required it will make for a nice setup.
 
 On my build I used the [Borken Button](https://www.youtube.com/watch?v=A08IrJ3ECuA).  
 --------------------------
+![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
+![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/back.jpg)
 
 # 3D Printed Case
 ---------------------------
