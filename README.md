@@ -1,7 +1,7 @@
 # Vitadock-setup DIY
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 
-[VitaDock Sneak Peak](https://youtu.be/uhU4KG8FZ6s)
+![video](https://youtu.be/uhU4KG8FZ6s)
 
 What you will need for this build
 ------------------------------------
@@ -131,10 +131,11 @@ bash /home/pi/scrits/scan.sh &
 --------
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/image.jpg)
 
-4/20/2019 RC1: Vitadock RC1 
-[Google Drive download](https://drive.google.com/open?id=14fQzrgGmT0gzRNprcmJL_JI9MPACiKHi)
+4/22/2019 RC1: Vitadock RC1 
+[G-Drive download link](https://drive.google.com/open?id=14fQzrgGmT0gzRNprcmJL_JI9MPACiKHi)
 --------------
 Here is the Releace Canidate 1 
+
 Plug in everything, BT dongle, Ps vita usb, HDMI from tv, and finally the power last. The raspberry pi will turn on and will auto launch the viedo stream. Connect to the dock via bluetooth on the PS VITA, and once you exit the settings screen you will have both video and sound coming out of your tv. 
 
 Notes :
