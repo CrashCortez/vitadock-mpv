@@ -10,8 +10,7 @@ What you will need for this build
 I used a Raspberry Pi 3 B+
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/pi3b+2.jpg)
 
-# Bluetooth Dongle
--------------------
+
 Any BT 4.0 should work i used this no-name brand
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/bt%20dongle.jpg)
 
