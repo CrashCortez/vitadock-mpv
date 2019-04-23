@@ -1,12 +1,22 @@
 # Vitadock-setup DIY
-Build 
 
+What you will need for this build
+------------------------------------
+# Raspberry Pi
+-----------------------
+I used a Raspberry Pi 3 B+
+![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/pi3b+.jpg)
+
+# Bluetooth Dongle
+-------------------
+Any BT 4.0 should work i used this no-name brand
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/bt%20dongle.jpg)
 
+# Momentary Swith
+While this is not required it will make for a nice setup. On my build I used the [Borken Button](https://www.youtube.com/watch?v=A08IrJ3ECuA), that way I don have to mod my 3D printed case.  
 
-
-Instructions 
---------------
+Software Instructions Setup
+------------------------------
 
 1- Download Raspbian with a desktop from:
 -------
