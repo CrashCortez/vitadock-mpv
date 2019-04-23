@@ -128,6 +128,7 @@ bash /home/pi/scrits/scan.sh &
 # Releases
 --------
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/image.jpg)
+
 4/20/2019 RC1: Vitadock RC1 
 [Google Drive download](https://drive.google.com/open?id=14fQzrgGmT0gzRNprcmJL_JI9MPACiKHi)
 --------------
