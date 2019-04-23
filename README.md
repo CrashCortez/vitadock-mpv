@@ -14,7 +14,7 @@ I used a Raspberry Pi 3 B+
 Bluetooth Dongle
 -----
 
-Any BT 4.0 should work i used this no-name brand
+Any BT 4.0 should work. I used this no-name brand.
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/bt%20dongle.jpg)
 
@@ -23,7 +23,7 @@ Momentary Switch
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/momentary.jpg)
 
-While this is not required it will make for a nice setup.
+While this is not required, it will make for a nice setup.
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/borken.jpg)
 
@@ -33,6 +33,9 @@ On my build I used the [Borken Button](https://www.youtube.com/watch?v=A08IrJ3EC
 --------
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/back.jpg)
+There are a few on thingverse, and a few people that can print them for you.
+
+Find a dock and get it printed [3D Prints](https://www.thingiverse.com/search?q=vita+raspberry+pi&dwh=875cb8a1f5323f8)
 
 Hacked PS VITA with usb connection
 -------
@@ -44,33 +47,28 @@ Hacked PS VITA with usb connection
 ------------------------------
 
 1- Download Raspbian with a desktop from:
-
+------------------------------
 https://www.raspberrypi.org/downloads/raspbian/
 
 2 - Using Win32diskimager or etcher "write" the unzipped Raspbian image to your SD Card. 
-
+------------------------------
 3 - Once done remove the SD Card from PC and put your card in you pi and boot it up.
-
+------------------------------
 4 - After the first boot set your time zone, language etc. [AND DO NOT SKIP UPDATE ONCE ASKED!!!] Also enable SSH if you want to use a pc and putty to help set this up.
-
+------------------------------
 5 - Once everything is done restart your raspberry pi (system message will appear asking you to press reboot).
+------------------------------
 
-or 
-
-If you have a card with Raspbian Stretch update and upgrade
-```
-sudo apt-get update && sudo apt-get -y upgrade
-```
 # Setting up the media
 
-1.) Update MPV and FFMPEG
+1 - Update MPV and FFMPEG
 ----
 Follow the insructions on this forum post, it will install mpv and the codecs that we need to run the stream from the vita to the pi. 
 This will take about an hour. 
 
 https://www.raspberrypi.org/forums/viewtopic.php?t=199775
 
-2.) Setup your Sound
+2 - Setup your Sound
 -----
 You can use a usb sound card an some 3.5mm cables to send the sound to the pi. I found the sound quality to be poor. So i opted to turn the pi into a BT reciver and send the sound from the vita to the pi. I bought a cheap no name dongle, worked well. 
 
@@ -111,13 +109,13 @@ Airplay password (y/n): n
 Which Sound Card are you using? (0/1/2/3/4/5/6/7/8/9/10/11) : 0. No Sound Card
 
 
-3.) Grab the menu scripts
+3 - Grab the menu scripts (OPTIONAL)
 -----
 ```shell
 git clone https://github.com/CrashCortez/vitadock-setup.git && cd vitadock-settup/menu && sudo chmod a+x *.sh && sudo chown pi:pi *.sh && cp *.sh /home/pi/scripts/
 ```
 
-4.) Make it autostart
+4 - Make it autostart  (OPTIONAL)
 -----
 ```shell
 sudo nano /etc/rc.local
@@ -133,6 +131,9 @@ bash /home/pi/scrits/scan.sh &
 --------
 4/20/2019 RC1: Vitadock RC1 
 [Google Drive download](https://drive.google.com/open?id=14fQzrgGmT0gzRNprcmJL_JI9MPACiKHi)
+--------------
+Here is the Releace Canidate 1 
+Plug in everything, BT dongle, Ps vita usb, HDMI from tv, and finally the power last. The raspberry pi will turn on and will auto launch the viedo stream. Connect to the dock via bluetooth on the PS VITA, and once you exit the settings screen you will have both video and sound coming out of your tv. 
 
 Notes :
 --------
