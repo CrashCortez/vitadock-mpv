@@ -1,6 +1,12 @@
-# Vitadock-setup
+# Vitadock-setup DIY
+Build 
 
-# Setup your OS
+![image](
+
+
+
+Instructions 
+--------------
 
 1- Download Raspbian with a desktop from:
 -------
@@ -91,7 +97,7 @@ bash /home/pi/scrits/scan.sh &
 # Releases
 
 4/20/2019 RC1: Vitadock RC1 
-[Release download](https://drive.google.com/open?id=14fQzrgGmT0gzRNprcmJL_JI9MPACiKHi)
+[Google Drive download](https://drive.google.com/open?id=14fQzrgGmT0gzRNprcmJL_JI9MPACiKHi)
 
 # Notes :
 
