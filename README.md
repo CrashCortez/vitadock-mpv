@@ -1,7 +1,7 @@
 # Vitadock-setup DIY
 Build 
 
-![image](icons/bt dongle.jpg)
+![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/bt%20dongle.jpg)
 
 
 
