@@ -1,7 +1,7 @@
 # Vitadock-setup DIY
 Build 
 
-![image](
+![image](icons/bt dongle.jpg)
 
 
 
