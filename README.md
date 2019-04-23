@@ -18,8 +18,10 @@ Any BT 4.0 should work i used this no-name brand
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/momentary.jpg)
 
 While this is not required it will make for a nice setup.
+
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/borken.jpg)
-On my build I used the [Borken Button](https://www.youtube.com/watch?v=A08IrJ3ECuA), that way I don have to mod my 3D printed case.  
+
+On my build I used the [Borken Button](https://www.youtube.com/watch?v=A08IrJ3ECuA).  
 
 # 3D Printed Case
 ---------------------------
