@@ -3,22 +3,23 @@
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 
-What you will need for this build
+# What you will need for this build
 ------------------------------------
-# Raspberry Pi
-
+Raspberry Pi
+----
 I used a Raspberry Pi 3 B+
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/pi3b+.jpg)
 
-# Bluetooth Dongle
-
+Bluetooth Dongle
+-----
 
 Any BT 4.0 should work i used this no-name brand
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/bt%20dongle.jpg)
 
-# Momentary Switch
+Momentary Switch
+-------
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/momentary.jpg)
 
@@ -28,18 +29,18 @@ While this is not required it will make for a nice setup.
 
 On my build I used the [Borken Button](https://www.youtube.com/watch?v=A08IrJ3ECuA).  
 
-# 3D Printed Case
-
+3D Printed Case
+--------
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/back.jpg)
 
-# Hacked PS VITA with usb connection
-
+Hacked PS VITA with usb connection
+-------
 ...and of course a Hacked PSVITA Henkaku/enso/h-encore with uvc plugin by xerpi
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/vita.jpg)
 
-Software Instructions Setup
+# Software Instructions Setup
 ------------------------------
 
 1- Download Raspbian with a desktop from:
