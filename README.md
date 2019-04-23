@@ -1,7 +1,7 @@
 # Vitadock-setup DIY
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 
-[![VitaDock Sneak Peak](https://youtu.be/uhU4KG8FZ6s)](https://youtu.be/uhU4KG8FZ6s)
+[VitaDock Sneak Peak](https://youtu.be/uhU4KG8FZ6s)
 
 What you will need for this build
 ------------------------------------
