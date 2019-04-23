@@ -1,8 +1,10 @@
 # Vitadock-setup DIY
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/image.jpg)
+
+![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
+
 What you will need for this build
 ------------------------------------
-![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 # Raspberry Pi
 -----------------------
 I used a Raspberry Pi 3 B+
