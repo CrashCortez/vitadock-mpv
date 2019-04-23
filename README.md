@@ -20,7 +20,6 @@ Any BT 4.0 should work i used this no-name brand
 
 # Momentary Switch
 
-
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/momentary.jpg)
 
 While this is not required it will make for a nice setup.
@@ -34,7 +33,11 @@ On my build I used the [Borken Button](https://www.youtube.com/watch?v=A08IrJ3EC
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/back.jpg)
 
+# Hacked PS VITA with usb connection
 
+...and of course a Hacked PSVITA Henkaku/enso/h-encore with uvc plugin by xerpi
+
+![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/vita.jpg)
 
 Software Instructions Setup
 ------------------------------
