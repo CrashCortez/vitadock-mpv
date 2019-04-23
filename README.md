@@ -1,5 +1,4 @@
 # Vitadock-setup DIY
-![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/image.jpg)
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 
 What you will need for this build
@@ -85,7 +84,7 @@ Then reboot
 
 I used BaReinhard's Super Simple Raspberry Pi Audio Receiver Install : https://github.com/BaReinhard/Super-Simple-Raspberry-Pi-Audio-Receiver-Install
 
-Once again use Putty or your Pi's terminal
+Use Putty or your Pi's terminal
 -------------
 ```
 git clone https://github.com/bareinhard/super-simple-raspberry-pi-audio-receiver-install
@@ -128,6 +127,7 @@ bash /home/pi/scrits/scan.sh &
 ```
 # Releases
 --------
+![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/image.jpg)
 4/20/2019 RC1: Vitadock RC1 
 [Google Drive download](https://drive.google.com/open?id=14fQzrgGmT0gzRNprcmJL_JI9MPACiKHi)
 --------------
@@ -136,7 +136,6 @@ Plug in everything, BT dongle, Ps vita usb, HDMI from tv, and finally the power 
 
 Notes :
 --------
-- Runs upscaled 1080 30fps, ~2 frame latency
 
 - You can use xerpi's ds3/4 plugin to use controller with vita
 
