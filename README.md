@@ -49,18 +49,24 @@ Find a dock and get it printed [3D Prints](https://www.thingiverse.com/search?q=
 
 
 1- Download Raspbian with a desktop from:
+-----
 
 [Raspberrypi.org downloads](https://www.raspberrypi.org/downloads/raspbian/), remember to use the desktop version, NOT the lite or desktop with recomended software.
 
 2 - Using Win32diskimager or etcher "write" the unzipped Raspbian image to your SD Card. 
+----
 
 3 - Once done remove the SD Card from PC and put your card in you pi and boot it up.
+---
 
 4 - After the first boot set your time zone, language etc. [AND DO NOT SKIP UPDATE ONCE ASKED!!!] Also enable SSH if you want to use a pc and putty to help set this up.
+------
 
 5 - Once everything is done restart your raspberry pi (system message will appear asking you to press reboot).
+----
 
-6- If you want to use [Putty](https://www.putty.org/),here is a quick [tutorial](https://youtu.be/h3_zNvAvJtE)
+6 - (Optional) If you want to use [Putty](https://www.putty.org/),here is a quick [tutorial](https://youtu.be/h3_zNvAvJtE)
+-----
 
 # Setting up the Dock
 
