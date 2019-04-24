@@ -155,6 +155,13 @@ If you want to launch from command line type this into the terminal.
 ```shell
 mpv /dev/video0
 ```
+
+6 - (Optional) Power button setup optional
+-------
+To setup an on/off button follow this [tutorial](https://www.youtube.com/watch?v=4nTuzIY0i3k) by Eta Prime
+
+To set up the Borken Button follow this [tutorial](https://www.youtube.com/watch?v=A08IrJ3ECuA) by Eta prime 
+
 # You are done! 
 
 # Releases
