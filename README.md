@@ -86,8 +86,6 @@ dtoverlay=pi3-disable-bt
 ```
 Then reboot 
 
-I used BaReinhard's Super Simple Raspberry Pi Audio Receiver Install : https://github.com/BaReinhard/Super-Simple-Raspberry-Pi-Audio-Receiver-Install
-
 Use Putty or your Pi's terminal
 -------------
 
@@ -164,3 +162,5 @@ Notes :
 - You can use xerpi's ds3/4 plugin to use controller with vita
 
 - For audio I recommend usb bluetooth dongle
+
+- I used [BaReinhard's Super Simple Raspberry Pi Audio Receiver Install](https://github.com/BaReinhard/Super-Simple-Raspberry-Pi-Audio-Receiver-Install) all credit for the BT sound setup goes to him.
