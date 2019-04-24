@@ -109,13 +109,13 @@ Airplay password (y/n): n
 Which Sound Card are you using? (0/1/2/3/4/5/6/7/8/9/10/11) : 0. No Sound Card
 
 
-3 - Grab the menu scripts WIP  (OPTIONAL)
+3 - Grab the menu scripts work in progress (OPTIONAL)
 -----
 ```shell
 git clone https://github.com/CrashCortez/vitadock-setup.git && cd vitadock-settup/menu && sudo chmod a+x *.sh && sudo chown pi:pi *.sh && cp *.sh /home/pi/scripts/
 ```
 
-4 - Make it autostart  (OPTIONAL)
+4 - Make it autostart work in progress (OPTIONAL)
 -----
 ```shell
 sudo nano /etc/rc.local
