@@ -169,7 +169,7 @@ Notes :
 
 - You can use xerpi's ds3/4 plugin to use controller with vita
 
-- I Suggest you use the upcomming release, the [MPV and FFMPEG](https://www.raspberrypi.org/forums/viewtopic.php?t=199775) tutorial can be hard to follow. I did auto mate ite to see if that will help make tthe set up eaiser. all credit goes to RPi_Mike and his killer script.
+- I Suggest you use the upcomming release, the [MPV and FFMPEG](https://www.raspberrypi.org/forums/viewtopic.php?t=199775) tutorial can be hard to follow. I did automate it, to see if that will help make tthe set up eaiser. all credit goes to RPi_Mike and his killer script.
 
 - For audio I recommend usb bluetooth dongle
 
