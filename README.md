@@ -1,4 +1,4 @@
-# VitaDock-setup DIY project
+# VitaDock MPV DIY project
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 
 [VitaDock video sneak peak](https://youtu.be/uhU4KG8FZ6s)
