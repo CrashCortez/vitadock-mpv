@@ -7,20 +7,20 @@ This is Crash's MPV version version, if you wnat xCorra's VLC [click here](https
 
 What you will need for this build
 ------------------------------------
--Raspberry Pi
+- Raspberry Pi
 ----
 I used a Raspberry Pi 3 B+
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/pi3b+.jpg)
 
--Bluetooth Dongle
+- Bluetooth Dongle
 -----
 
 Any BT 4.0 should work. I used this no-name brand.
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/bt%20dongle.jpg)
 
--Momentary Switch
+- Momentary Switch
 -------
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/momentary.jpg)
@@ -31,7 +31,7 @@ While this is not required, it will make for a nice setup.
 
 On my build I used the [Borken Button](https://www.youtube.com/watch?v=A08IrJ3ECuA).  
 
--3D Printed Case
+- 3D Printed Case
 --------
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/back.jpg)
@@ -39,7 +39,7 @@ There are a few on thingverse, and a few people that can print them for you.
 
 Find a dock and get it printed [3D Prints](https://www.thingiverse.com/search?q=vita+raspberry+pi&dwh=875cb8a1f5323f8)
 
--Hacked PS VITA with usb connection
+- Hacked PS VITA with usb connection
 -------
 ...and of course a Hacked PSVITA Henkaku/enso/h-encore with [udcd-uvc](https://github.com/xerpi/vita-udcd-uvc) plugin by xerpi
 
