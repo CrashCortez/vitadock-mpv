@@ -72,6 +72,8 @@ Find a dock and get it printed [3D Prints](https://www.thingiverse.com/search?q=
 
 1 - Update MPV and FFMPEG
 ----
+Adjust your memory split to 128 and reboot. This can be done on the desktop, with raspi-config, or with editing the /boot/config.txt.
+
 Using putty or terminal on the raspberry pi, copy and paste the following and let your pi run, this process should take about hour.
 
 ```
