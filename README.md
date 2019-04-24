@@ -50,7 +50,7 @@ Hacked PS VITA with usb connection
 
 1- Download Raspbian with a desktop from:
 
-https://www.raspberrypi.org/downloads/raspbian/
+[Raspberrypi.org downloads](https://www.raspberrypi.org/downloads/raspbian/), remember to use the desktop version, NOT the lite or desktop with recomended software.
 
 2 - Using Win32diskimager or etcher "write" the unzipped Raspbian image to your SD Card. 
 
@@ -65,10 +65,12 @@ https://www.raspberrypi.org/downloads/raspbian/
 
 1 - Update MPV and FFMPEG
 ----
-Follow the insructions on this forum post, it will install mpv and the codecs that we need to run the stream from the vita to the pi. 
-This will take about an hour. 
+Using putty or terminal on the raspberry pi, copy and paste the following and let your pi run, this process should take about hour.
 
-https://www.raspberrypi.org/forums/viewtopic.php?t=199775
+```
+cd && wget https://raw.githubusercontent.com/CrashCortez/vidware/master/vidware && chmod u+x vidware && sudo bash vidware
+```
+Once the video loads you can press Q on the keyboard to exit the viedo.
 
 2 - Setup your Sound
 -----
