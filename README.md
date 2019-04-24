@@ -65,7 +65,7 @@ Find a dock and get it printed [3D Prints](https://www.thingiverse.com/search?q=
 5 - Once everything is done restart your raspberry pi (system message will appear asking you to press reboot).
 ----
 
-6 - (Optional) If you want to use [Putty](https://www.putty.org/),here is a quick [tutorial](https://youtu.be/h3_zNvAvJtE)
+6 - (Optional) If you want to use [Putty](https://www.putty.org/), here is a quick [tutorial](https://youtu.be/h3_zNvAvJtE)
 -----
 
 # Setting up the Dock
