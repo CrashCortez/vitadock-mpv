@@ -41,7 +41,7 @@ Find a dock and get it printed [3D Prints](https://www.thingiverse.com/search?q=
 
 Hacked PS VITA with usb connection
 -------
-...and of course a Hacked PSVITA Henkaku/enso/h-encore with uvc plugin by xerpi
+...and of course a Hacked PSVITA Henkaku/enso/h-encore with [udcd-uvc](https://github.com/xerpi/vita-udcd-uvc) plugin by xerpi
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/vita.jpg)
 
