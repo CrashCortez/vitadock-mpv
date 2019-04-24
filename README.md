@@ -113,23 +113,45 @@ Airplay password (y/n): n
 Which Sound Card are you using? (0/1/2/3/4/5/6/7/8/9/10/11) : 0. No Sound Card
 
 
-3 - Grab the menu scripts work in progress (OPTIONAL)
+3 - Reboot your PI
+
+
 -----
 ```shell
 git clone https://github.com/CrashCortez/vitadock-setup.git && cd vitadock-settup/menu && sudo chmod a+x *.sh && sudo chown pi:pi *.sh && cp *.sh /home/pi/scripts/
 ```
 
-4 - Make it autostart work in progress (OPTIONAL)
+4 - Make a launching script
 -----
-```shell
-sudo nano /etc/rc.local
-```
-
-add the following before exit
+open a terminal
 
 ```shell
-bash /home/pi/scripts/autostart.sh &
+sudo nano /home/pi/Desktop/launchvita.sh
 ```
+
+then copy and paste the following
+
+```shell
+#!/bin/bash
+
+mpv /dev/video0
+```
+
+Save (CTRL +x), hit Y, then enter
+
+make it exicutionable and change ownership
+```shell
+sudo chmod a+x /home/pi/Desktop/launchvita.sh && sudo chown pi:pi /home/pi/Desktop/launchvita.sh
+```
+You can now launch the script from your desktop.
+
+If you want to launch from command line type this into the terminal.
+
+```shell
+mpv /dev/video0
+```
+# You are done! 
+
 # Releases
 --------
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/image.jpg)
