@@ -7,20 +7,20 @@ This is Crash's MPV version version, if you wnat xCorra's VLC [click here](https
 
 What you will need for this build
 ------------------------------------
-Raspberry Pi
+-Raspberry Pi
 ----
 I used a Raspberry Pi 3 B+
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/pi3b+.jpg)
 
-Bluetooth Dongle
+-Bluetooth Dongle
 -----
 
 Any BT 4.0 should work. I used this no-name brand.
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/bt%20dongle.jpg)
 
-Momentary Switch
+-Momentary Switch
 -------
 
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/momentary.jpg)
@@ -31,7 +31,7 @@ While this is not required, it will make for a nice setup.
 
 On my build I used the [Borken Button](https://www.youtube.com/watch?v=A08IrJ3ECuA).  
 
-3D Printed Case
+-3D Printed Case
 --------
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/dock.jpg)
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/back.jpg)
@@ -39,7 +39,7 @@ There are a few on thingverse, and a few people that can print them for you.
 
 Find a dock and get it printed [3D Prints](https://www.thingiverse.com/search?q=vita+raspberry+pi&dwh=875cb8a1f5323f8)
 
-Hacked PS VITA with usb connection
+-Hacked PS VITA with usb connection
 -------
 ...and of course a Hacked PSVITA Henkaku/enso/h-encore with [udcd-uvc](https://github.com/xerpi/vita-udcd-uvc) plugin by xerpi
 
@@ -72,7 +72,10 @@ cd && wget https://raw.githubusercontent.com/CrashCortez/vidware/master/vidware 
 ```
 Once the video loads you can press Q on the keyboard to exit the viedo.
 
-2 - Setup your Sound
+2 - Reboot the pi
+---------
+
+3 - Setup your Sound
 -----
 You can use a usb sound card an some 3.5mm cables to send the sound to the pi. I found the sound quality to be poor. So I opted to turn the pi into a BT reciver and send the sound from the vita to the pi. I bought a cheap no name dongle, worked well. 
 
@@ -113,10 +116,10 @@ Airplay password (y/n): n
 Which Sound Card are you using? (0/1/2/3/4/5/6/7/8/9/10/11) : 0. No Sound Card
 
 
-3 - Reboot your PI
+4 - Reboot your PI
 --------
 
-4 - Make a launching script
+5 - Make a launching script
 -----
 open a terminal
 
