@@ -3,6 +3,8 @@
 
 [VitaDock video sneak peak](https://youtu.be/uhU4KG8FZ6s)
 
+This is Crash's MPV version version, if you wnat X Corra's VLC ![click here](https://github.com/CrashCortez/vitadock-vlc)
+
 What you will need for this build
 ------------------------------------
 Raspberry Pi
