@@ -127,7 +127,6 @@ add the following before exit
 
 ```shell
 bash /home/pi/scripts/autostart.sh &
-bash /home/pi/scrits/scan.sh &
 ```
 # Releases
 --------
