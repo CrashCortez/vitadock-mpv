@@ -149,12 +149,8 @@ mpv /dev/video0
 --------
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/image.jpg)
 
-4/22/2019 RC1: Vitadock RC1 
-[G-Drive download link](https://drive.google.com/open?id=14fQzrgGmT0gzRNprcmJL_JI9MPACiKHi)
---------------
-Here is the Releace Canidate 1 
-
-Plug in everything, BT dongle, Ps vita usb, HDMI from tv, and finally the power last. The raspberry pi will turn on and will auto launch the viedo stream. Connect to the dock via bluetooth on the PS VITA, and once you exit the settings screen you will have both video and sound coming out of your tv. 
+ 
+# COMING SOON!
 
 Notes :
 --------
