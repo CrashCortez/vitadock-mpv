@@ -184,10 +184,13 @@ To set up the Borken Button follow this [tutorial](https://www.youtube.com/watch
 # Releases
 --------
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/image.jpg)
-
+Plug in
+------
+- Optimized udcd_uvc.skprx for 60 fps: [Download Link](https://github.com/CrashCortez/vitadock-mpv/blob/master/plugin/udcd_uvc.skprx)
  
-# Pi3 B/B+ Beta Builds
-Crash's VitaDock RC1 Image: [Download link](https://drive.google.com/open?id=14fQzrgGmT0gzRNprcmJL_JI9MPACiKHi)
+Pi3 B/B+ Beta Builds
+-------
+- Crash's VitaDock RC1 Image: [Download link](https://drive.google.com/open?id=14fQzrgGmT0gzRNprcmJL_JI9MPACiKHi)
 
 Notes :
 --------
