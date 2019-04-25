@@ -186,7 +186,8 @@ To set up the Borken Button follow this [tutorial](https://www.youtube.com/watch
 ![image](https://github.com/CrashCortez/vitadock-setup/blob/master/icons/image.jpg)
 
  
-# COMING SOON!
+# Pi3 B/B+ Beta Builds
+Crash's VitaDock RC1 Image: [Download link](https://drive.google.com/open?id=14fQzrgGmT0gzRNprcmJL_JI9MPACiKHi)
 
 Notes :
 --------
