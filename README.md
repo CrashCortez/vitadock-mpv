@@ -193,7 +193,9 @@ Pi3 B/B+ Beta Builds
 -------
 - Crash's VitaDock RC1 Image: [Download link](https://drive.google.com/open?id=14fQzrgGmT0gzRNprcmJL_JI9MPACiKHi)
 
-Notes :
+
+
+# Notes :
 --------
 
 - You can use xerpi's ds3/4 plugin to use controller with vita
