@@ -94,7 +94,7 @@ Using putty or terminal on the raspberry pi, copy and paste the following and le
 ```
 cd && wget https://raw.githubusercontent.com/CrashCortez/vidware/master/vidware && chmod u+x vidware && sudo bash vidware
 ```
-Once the video loads you can press Q on the keyboard to exit the viedo.
+Once the video loads you can press Q on the keyboard to exit the video.
 
 2 - Reboot the pi
 ---------
