@@ -3,7 +3,7 @@
 
 [VitaDock video sneak peak](https://youtu.be/uhU4KG8FZ6s)
 
-This is Crash's MPV version version, if you wnat xCorra's VLC [click here](https://github.com/CrashCortez/vitadock-vlc)
+Updates comming soon!!!!
 
 What you will need for this build
 ------------------------------------
@@ -191,7 +191,7 @@ Plug in
  
 Pi3 B/B+ Beta Builds
 -------
-- Crash's VitaDock RC1 Image: [Download link](https://drive.google.com/open?id=14fQzrgGmT0gzRNprcmJL_JI9MPACiKHi)
+- Crash's VitaDock RC1 Image: Download link: comming soon
 
 
 
