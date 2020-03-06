@@ -29,4 +29,4 @@ sudo dpkg -i mpv_0.32.0-2_armhf.deb
 ```
 
 
-A huge thanks to Salvador from [Pi Labs](https://www.youtube.com/channel/UCgfQjdc5RceRlTGfuthBs7g) for helping me fix my errors in compiling mpv with the new OpenGL drivers. 
+A huge thanks to my buddy Salvador from [Pi Lab](https://www.youtube.com/channel/UCgfQjdc5RceRlTGfuthBs7g) for helping me fix my errors in compiling mpv with the new OpenGL drivers. 
