@@ -193,7 +193,10 @@ Pi3 B/B+ Beta Builds
 -------
 - Crash's VitaDock RC1 Image: Download link: comming soon
 
+Pi4 Beta Builds
+-------
 
+Pi 4 MPV/VLC Hybrid: [Click to Download](https://drive.google.com/file/d/1UuEtj5MI_IDEXm37e4csDaoP-HT8QuYo/view?usp=drivesdk)
 
 # Notes :
 --------
