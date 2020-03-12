@@ -191,7 +191,10 @@ Plug in
  
 Pi3 B/B+ Beta Builds
 -------
-- Crash's VitaDock RC1 Image: Download link: comming soon
+VitaDock MPV by Motie: [Click to Download](https://drive.google.com/file/d/1fRYiPYMEw9KJaan-WItzAwhJJnf20CN7/view)
+
+VitaDock MPV console beta: [Click to download](https://drive.google.com/file/d/1rPslsLEd86xNBPr_qJcmmDSt_ZdD6B_G/view?usp=drivesdk)
+
 
 Pi4 Beta Builds
 -------
